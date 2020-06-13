@@ -10,9 +10,7 @@ import android.os.Build;
 import android.os.Environment;
 import android.provider.DocumentsContract;
 import android.provider.MediaStore;
-
 import com.taf.videomerge.model.Video;
-
 import java.net.URISyntaxException;
 import java.util.List;
 

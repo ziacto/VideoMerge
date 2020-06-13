@@ -18,6 +18,7 @@
             android:layout_height="wrap_content"
             android:text="concat"
             android:id="@+id/btn_concat"
+            android:onClick="concatClick"
             android:visibility="visible"
             android:layout_marginEnd="15dp"/>
     </LinearLayout>
