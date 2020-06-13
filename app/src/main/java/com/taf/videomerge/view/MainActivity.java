@@ -1,7 +1,9 @@
-package com.taf.videomerge;
+package com.taf.videomerge.view;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.taf.videomerge.R;
 
 public class MainActivity extends AppCompatActivity {
 
